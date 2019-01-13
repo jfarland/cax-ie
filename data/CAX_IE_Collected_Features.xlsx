@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Crowd Analytix : ServerNotFound</title>
+<link href="/css/styles_CA.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+
+<div align="center">
+
+<img class="SerWrapper" src="/images/server-nt-found.jpg" width="1400" height="768" alt="" />
+
+<div class="ser-title">Hang <br />In There
+<div class="serErr">
+404 page not found
+</div>
+
+                                                <div class="serDes">
+                                                
+                                                The page you are looking for it does't appear to exit.<br /> 
+                                                
+                                                <span class="darkblue bold">Go back</span> or head on over to  <a class="darkblue bold" href="/">crowdanalytix.com</a>
+                                                
+                                                <br />
+                                                to choose a new direction
+                                                </div>
+                                                
+                                                
+                                                <div class="serDes">
+                                                
+                                                Please report any broken links to  
+                                                
+                                                <span class="darkblue bold">Help Team.</span>
+                                                </div>
+                                                
+                                                
+                                                <div class="serDes">
+                                                
+                                                <img src="/images/server-logo.png" width="186" height="21" alt="" />
+                                                </div>
+
+</div>
+</div>
+
+
+</body>
+</html>
